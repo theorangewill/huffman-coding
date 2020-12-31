@@ -1,5 +1,5 @@
 ## Huffman coding
-This program compact a file using the Huffman coding.
+This program compacts a file using the Huffman coding.
 
 Usage:
 ```
